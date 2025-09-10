@@ -18,9 +18,9 @@
 
 | Competition Name | Team Name | Achievement |
 | ---------------- | --------- | ----------- |
-| **ICPC Asia Dhaka Regional Contest 2024 Onsite** | [JU_OneMoreZer0](https://bapsoj.org/contests/icpc-asia-dhaka-regional-contest-2024-onsite-round/standings) | 46th |
-| **ICPC Dhaka Regional Preliminary 2024** | [JU_OneMoreZer0](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/standings) | Top 2.89%, 72nd out of 2489 participants 🥇 |
-| **ICPC Dhaka Regional Preliminary 2023** | [JU_OneMoreZer0](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/standings) | Top 8.47%, 210th out of 2479 participants 🥉 |
+| **ICPC Asia Dhaka Regional Contest 2024 Onsite** | [JU_OneMoreZer0](https://bapsoj.org/contests/icpc-asia-dhaka-regional-contest-2024-onsite-round/standings) | 46th 🎯 |
+| **ICPC Dhaka Regional Preliminary 2024** | [JU_OneMoreZer0](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/standings) | Top 2.89%, 72nd out of 2489 participants 🎯 |
+| **ICPC Dhaka Regional Preliminary 2023** | [JU_OneMoreZer0](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/standings) | Top 8.47%, 210th out of 2479 participants 🎯 |
 | **UU Inter University Programming Contest 2025** | [JU_OneMoreZer0](https://toph.co/c/uttara-university-inter-university-2025/standings) | 28th 🎯 |
 | **National Girls’ Programming Contest 2022** | [JU_OneMoreZer0](https://toph.co/c/national-girls-programming-contest-2022/standings) | 42nd 🎯 |
 | **DUET Inter University Programming Contest 2025** | [JU_OneMoreZer0](https://toph.co/c/duet-inter-university-iupc-2025/standings) | 44th 🎯 |
@@ -55,7 +55,7 @@
 
 ## 🌱 Fun Fact
 - I love **competitive programming** and have a passion for solving algorithmic challenges.  
-- Besides coding, I enjoy **tech**, **sports**, and watching **movies**! 🎮⚽🎬
+- Besides coding, I enjoy **sports** and watching **movies**! 🎮⚽🎬
 
 ---
 
