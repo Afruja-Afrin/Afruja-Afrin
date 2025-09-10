@@ -54,7 +54,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afruja-Afrin&layout=compact&theme=radical)
 
 ## 🌱 Fun Fact
-- I love **competitive programming** and have a passion for solving algorithmic challenges. Besides coding, I enjoy **watching movies** and exploring new tech trends!
+- I love **competitive programming** and have a passion for solving algorithmic challenges.  
+- Besides coding, I enjoy **tech**, **sports**, and watching **movies**! 🎮⚽🎬
 
 ---
 
