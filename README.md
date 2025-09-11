@@ -50,6 +50,8 @@
 
 ## 🧑‍💻 GitHub Stats
 
+### ![Profile views](https://komarev.com/ghpvc/?username=Afruja-Afrin)
+###
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afruja-Afrin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afruja-Afrin&layout=compact&theme=radical)
 
