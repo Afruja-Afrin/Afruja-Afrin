@@ -33,6 +33,7 @@
 
 ## 🏆 Team Competitions
 
+
 | Competition Name | Team Name | Achievement |
 | ---------------- | --------- | ----------- |
 | **ICPC Asia Dhaka Regional Contest 2024 Onsite** | [JU_OneMoreZer0](https://bapsoj.org/contests/icpc-asia-dhaka-regional-contest-2024-onsite-round/standings) | 46th 🎯 |
@@ -47,16 +48,21 @@
 
 -----
 
+
 ## 🌐 Coding Platforms:
-[![Codeforces](https://img.shields.io/badge/Codeforces-1533-cyan)](https://codeforces.com/profile/Afruja_Afrin) 
-[![CodeChef](https://img.shields.io/badge/CodeChef-1733-blue)](https://www.codechef.com/users/afruja_afrin)
-[![Atcoder](https://img.shields.io/badge/Atcoder-822-green)](https://atcoder.jp/users/Afruja_Afrin)
-[![LightOJ](https://img.shields.io/badge/LightOJ-90%2B-orange)](https://lightoj.com/user/invisible)
-[![ICPC](https://img.shields.io/badge/ICPC-Profile-darkblue)](https://icpc.global/private/profile/846017)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1533-cyan?style=for-the-badge)](https://codeforces.com/profile/Afruja_Afrin) 
+[![CodeChef](https://img.shields.io/badge/CodeChef-1733-blue?style=for-the-badge)](https://www.codechef.com/users/afruja_afrin)
+[![AtCoder](https://img.shields.io/badge/AtCoder-822-green?style=for-the-badge)](https://atcoder.jp/users/Afruja_Afrin)
+[![LightOJ](https://img.shields.io/badge/LightOJ-90%2B-orange?style=for-the-badge)](https://lightoj.com/user/invisible)
+[![CSES](https://img.shields.io/badge/CSES-85%2B_Problems-success?style=for-the-badge)]([https://cses.fi/user/](https://cses.fi/user/153547))
+[![ICPC](https://img.shields.io/badge/ICPC-Profile-darkblue?style=for-the-badge)](https://icpc.global/private/profile/846017)
 
 -----
 
 ## 📱 Contact Me:
+
+
 [![Gmail](https://img.shields.io/badge/Gmail-shayoriafrin50%40gmail.com-red)](mailto:shayoriafrin50@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Afruja_Afrin-blue)](https://www.linkedin.com/in/afruja-afrin50/)
 
